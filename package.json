@@ -1,0 +1,31 @@
+{
+  "name": "nuxt-canonical",
+  "version": "1.0.0",
+  "description": "Module for automatically generating canonical tags for all pages in your nuxt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlegiants/nuxt-canonical.git"
+  },
+  "keywords": [
+    "SEO",
+    "canonical",
+    "link",
+    "nuxt",
+    "static",
+    "page",
+    "generation"
+  ],
+  "author": "Daniel Holst",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/littlegiants/nuxt-canonical/issues"
+  },
+  "homepage": "https://github.com/littlegiants/nuxt-canonical#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
