@@ -2,7 +2,7 @@
   "name": "nuxt-canonical",
   "version": "1.0.0",
   "description": "Module for automatically generating canonical tags for all pages in your nuxt project",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
