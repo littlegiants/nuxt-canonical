@@ -1,6 +1,6 @@
 {
   "name": "nuxt-canonical",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Module for automatically generating canonical tags for all pages in your nuxt project",
   "main": "lib/index.js",
   "scripts": {
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/littlegiants/nuxt-canonical#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15"
   }
 }
