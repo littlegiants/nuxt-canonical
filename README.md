@@ -27,6 +27,7 @@ Available options besides the required baseUrl
 
 ```javascript
 {
-  trailingSlashes: true; // Adds trailing slashes to the href attribute urls, defaults to true
+  trailingSlashes: true, // Adds trailing slashes to the href attribute urls, defaults to true
+  forceLowercase: false // Forces lowercase href attribute urls, defaults to false
 }
 ```
