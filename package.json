@@ -1,6 +1,6 @@
 {
   "name": "nuxt-canonical",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Module for automatically generating canonical tags for all pages in your nuxt project",
   "main": "lib/index.js",
   "scripts": {
